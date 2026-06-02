@@ -267,9 +267,3 @@ http://localhost:8080
  Desenvolvedor
 
 **Nome Completo:** Lucca Moreira Ferreira
-
-
-
- Licença
-
-Este projeto foi desenvolvido para fins acadêmicos e educacionais.
