@@ -33,8 +33,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 * Spring Web
 * MySQL
 * Maven
-* Hibernate
-* Lombok
 * Postman (testes da API)
 * Git e GitHub
 
